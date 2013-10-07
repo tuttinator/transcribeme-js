@@ -1,4 +1,5 @@
 {
+  "author": "Caleb Tutty",
   "name": "transcribemejs",
   "version": "0.0.1",
   "description": "TranscribeMe API wrapper for Node.js",
