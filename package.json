@@ -1,0 +1,14 @@
+{
+  "name": "transcribemejs",
+  "version": "0.0.1",
+  "description": "TranscribeMe API wrapper for Node.js",
+  "main": "transcribeme.js",
+  "keywords": [
+    "transcription",
+    "transcribeme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://git@github.com/tuttinator/transcribeme-js.git"
+  }
+}
